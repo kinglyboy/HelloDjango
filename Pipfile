@@ -9,6 +9,7 @@ verify_ssl = true
 pipenv = "*"
 django = "==2.2.3"
 markdown = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.6"
